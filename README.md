@@ -109,9 +109,9 @@ pytest -v tests/
 * Python 3.11+
 * Libraries:
 
-  * `psutil` (process monitoring)
-  * `pywin32` (Windows event log monitoring)
-  * `pytest` (automated testing)
+  * psutil (process monitoring)
+  * pywin32 (Windows event log monitoring)
+  * pytest (automated testing)
 
 ---
 
@@ -125,5 +125,3 @@ pytest -v tests/
 
 ## Author
 Parth Pawar
-
-Do you want me to do that?
