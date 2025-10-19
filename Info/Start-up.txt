@@ -1,0 +1,19 @@
+Step 1: Open Command Prompt as Administrator
+Press Windows Key → type cmd.
+
+Right-click Command Prompt → Run as administrator.
+
+Navigate to your project folder:
+cd C:\Users\Hp\Desktop\HIDS
+
+
+Step 2: Activate your virtual environment
+venv\Scripts\activate
+
+Step 3: Run your HIDS
+python main.py
+
+
+-- To run tests 
+
+pytest -v tests/

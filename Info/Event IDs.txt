@@ -1,0 +1,73 @@
+🔒 Security log
+
+4672 – Special privileges assigned to new logon (e.g., admin/SYSTEM privileges).
+👉 Triggers when an account logs on with elevated rights.
+
+4720 — User account created. (requires admin to create a user — demo by creating a temporary account)
+net user perth password /add
+net user perth /delete
+
+4722 — User account enabled. (requires admin)
+
+4732 — A member was added to a privileged local group (e.g., Administrators). (important; admin action)
+
+4726 — User account deleted. (requires admin)
+
+4625 – Failed logon attempt (someone tried to log in with wrong password / credentials).
+👉 Useful to detect brute-force attacks or suspicious login attempts.
+
+4624 — Successful logon. (demo-friendly: log on interactively using win+l)
+
+4634 — Logoff. (demo-friendly)
+
+
+⚙️ System log
+
+7034 – A service terminated unexpectedly.
+👉 Could indicate malware or system instability.
+
+7040 – The start type of a service was changed.
+👉 E.g., if a service was set to "disabled" or "auto" without your action — could be malicious.
+
+6005 — Event log service started. (demo-friendly: restart event log service)
+
+6006 — Event log service stopped.
+
+6013 — System uptime (informational).
+
+7000 / 7001 / 7009 — Service failed to start / timeout (useful to detect tampering).
+
+7023 / 7036 / 7034 — Service terminated / service start/stop / service terminated unexpectedly (7034 already in your list). (7036 is informative and frequently useful)
+
+7040 / 7045 — Service start type changed / a new service was installed (7045 = service installed — demo idea: create a benign service or scheduled task to show it).
+
+
+
+📦 Application log
+
+1000 – Application Error.
+👉 Logs application crashes.
+
+1001 – Windows Error Reporting.
+👉 Reports when applications crash or hang (paired with 1000).
+
+
+
+
+
+
+🛡️ Windows Defender (Operational log)
+
+1116 – Malware detected.
+👉 Defender found something suspicious.
+
+1117 – Malware action taken (e.g., quarantined).
+👉 Shows what Defender did about the detection.
+
+
+
+
+🔄 Windows Update (Client log)
+
+20 – Installation failure.
+👉 Update failed to install, could sometimes be related to tampering.

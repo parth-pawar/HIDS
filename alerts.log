@@ -1,0 +1,169 @@
+[2025-10-13 12:55:37] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 12:55:37] ALERT: EventLog Security | Mon Oct 13 12:34:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4672
+[2025-10-13 12:55:37] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 12:55:37] ALERT: EventLog Security | Mon Oct 13 12:34:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4624
+[2025-10-13 12:55:37] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 12:55:37] ALERT: EventLog Security | Mon Oct 13 12:32:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4672
+[2025-10-13 12:55:37] ALERT: EventLog Security | Mon Oct 13 12:32:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4624
+[2025-10-13 12:56:07] ALERT: EventLog Security | Mon Oct 13 12:34:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4672
+[2025-10-13 12:56:07] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 12:56:07] ALERT: EventLog Security | Mon Oct 13 12:34:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4624
+[2025-10-13 12:56:07] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 12:56:07] ALERT: EventLog Security | Mon Oct 13 12:32:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4672
+[2025-10-13 12:56:07] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 12:56:07] ALERT: EventLog Security | Mon Oct 13 12:32:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4624
+[2025-10-13 12:56:37] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 12:56:37] ALERT: EventLog Security | Mon Oct 13 12:34:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4672
+[2025-10-13 12:56:37] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 12:56:37] ALERT: EventLog Security | Mon Oct 13 12:34:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4624
+[2025-10-13 12:56:37] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 12:56:37] ALERT: EventLog Security | Mon Oct 13 12:32:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4672
+[2025-10-13 12:56:37] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 12:56:37] ALERT: EventLog Security | Mon Oct 13 12:32:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4624
+[2025-10-13 12:57:07] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 12:57:07] ALERT: EventLog Security | Mon Oct 13 12:56:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 12:57:10] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 12:57:10] ALERT: EventLog Security | Mon Oct 13 12:56:40 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 12:57:10] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 12:57:10] ALERT: EventLog Security | Mon Oct 13 12:56:40 2025 | Microsoft-Windows-Security-Auditing | ID: 4722
+[2025-10-13 12:57:10] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 12:57:40] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 12:57:40] ALERT: EventLog Security | Mon Oct 13 12:56:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 12:58:36] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 12:58:36] ALERT: EventLog Security | Mon Oct 13 12:56:40 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 12:58:36] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 12:58:36] ALERT: EventLog Security | Mon Oct 13 12:56:40 2025 | Microsoft-Windows-Security-Auditing | ID: 4722
+[2025-10-13 12:58:36] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 12:59:06] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 12:59:07] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 12:59:07] ALERT: EventLog Security | Mon Oct 13 12:56:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 12:59:07] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 12:59:07] ALERT: EventLog Security | Mon Oct 13 12:56:40 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 12:59:07] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 12:59:07] ALERT: EventLog Security | Mon Oct 13 12:56:40 2025 | Microsoft-Windows-Security-Auditing | ID: 4722
+[2025-10-13 12:59:37] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 12:59:37] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 12:59:37] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 12:59:37] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 12:59:37] ALERT: EventLog Security | Mon Oct 13 12:56:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 12:59:37] ALERT: EventLog Security | Mon Oct 13 12:56:40 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 12:59:37] ALERT: EventLog Security | Mon Oct 13 12:56:40 2025 | Microsoft-Windows-Security-Auditing | ID: 4722
+[2025-10-13 13:00:07] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:00:07] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:00:07] ALERT: EventLog Security | Mon Oct 13 12:56:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:00:07] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:00:07] ALERT: EventLog Security | Mon Oct 13 12:56:40 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 13:00:07] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:00:07] ALERT: EventLog Security | Mon Oct 13 12:56:40 2025 | Microsoft-Windows-Security-Auditing | ID: 4722
+[2025-10-13 13:00:47] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:09:06] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:09:06] ALERT: Suspicious process detected: cmd.exe
+4 2025 | Microsoft-Windows-Security-Auditing | ID: 4672
+[2025-10-13 13:09:06] ALERT: EventLog Security | Mon Oct 13 13:00:54 2025 | Microsoft-Windows-Security-Auditing | ID: 4624
+[2025-10-13 13:09:06] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:09:06] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:09:06] ALERT: EventLog Security | Mon Oct 13 12:56:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:09:36] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:09:36] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:09:36] ALERT: EventLog Security | Mon Oct 13 13:00:54 2025 | Microsoft-Windows-Security-Auditing | ID: 4672
+[2025-10-13 13:09:36] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:09:36] ALERT: EventLog Security | Mon Oct 13 13:00:54 2025 | Microsoft-Windows-Security-Auditing | ID: 4624
+[2025-10-13 13:09:36] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:09:36] ALERT: EventLog Security | Mon Oct 13 12:56:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:19:16] ALERT: EventLog Security | Mon Oct 13 13:16:55 2025 | Microsoft-Windows-Security-Auditing | ID: 4672
+[2025-10-13 13:19:16] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:19:16] ALERT: EventLog Security | Mon Oct 13 13:16:55 2025 | Microsoft-Windows-Security-Auditing | ID: 4624
+[2025-10-13 13:19:16] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:19:16] ALERT: EventLog Security | Mon Oct 13 13:00:54 2025 | Microsoft-Windows-Security-Auditing | ID: 4672
+[2025-10-13 13:19:16] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:19:16] ALERT: EventLog Security | Mon Oct 13 13:00:54 2025 | Microsoft-Windows-Security-Auditing | ID: 4624
+[2025-10-13 13:19:16] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:19:16] ALERT: EventLog Security | Mon Oct 13 12:56:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:19:46] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:19:46] ALERT: EventLog Security | Mon Oct 13 13:16:55 2025 | Microsoft-Windows-Security-Auditing | ID: 4672
+[2025-10-13 13:19:46] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:19:46] ALERT: EventLog Security | Mon Oct 13 13:16:55 2025 | Microsoft-Windows-Security-Auditing | ID: 4624
+[2025-10-13 13:19:46] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:19:46] ALERT: EventLog Security | Mon Oct 13 13:00:54 2025 | Microsoft-Windows-Security-Auditing | ID: 4672
+[2025-10-13 13:19:46] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:19:46] ALERT: EventLog Security | Mon Oct 13 13:00:54 2025 | Microsoft-Windows-Security-Auditing | ID: 4624
+[2025-10-13 13:19:46] ALERT: EventLog Security | Mon Oct 13 12:56:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:20:16] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:20:16] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:20:16] ALERT: EventLog Security | Mon Oct 13 13:16:55 2025 | Microsoft-Windows-Security-Auditing | ID: 4672
+[2025-10-13 13:20:16] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:20:16] ALERT: EventLog Security | Mon Oct 13 13:16:55 2025 | Microsoft-Windows-Security-Auditing | ID: 4624
+[2025-10-13 13:20:16] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:20:16] ALERT: EventLog Security | Mon Oct 13 13:00:54 2025 | Microsoft-Windows-Security-Auditing | ID: 4672
+[2025-10-13 13:20:16] ALERT: EventLog Security | Mon Oct 13 13:00:54 2025 | Microsoft-Windows-Security-Auditing | ID: 4624
+[2025-10-13 13:20:16] ALERT: EventLog Security | Mon Oct 13 12:56:56 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:20:46] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:20:46] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:20:46] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:20:46] ALERT: EventLog Security | Mon Oct 13 13:20:29 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 13:20:46] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:20:46] ALERT: EventLog Security | Mon Oct 13 13:20:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4722
+[2025-10-13 13:20:46] ALERT: EventLog Security | Mon Oct 13 13:20:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4720
+[2025-10-13 13:21:16] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:21:16] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:21:16] ALERT: EventLog Security | Mon Oct 13 13:20:46 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:21:16] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:21:16] ALERT: EventLog Security | Mon Oct 13 13:20:29 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 13:21:16] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:21:16] ALERT: EventLog Security | Mon Oct 13 13:20:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4722
+[2025-10-13 13:21:46] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:21:46] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:21:46] ALERT: EventLog Security | Mon Oct 13 13:20:46 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:21:46] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:21:46] ALERT: EventLog Security | Mon Oct 13 13:20:29 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 13:21:46] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:21:46] ALERT: EventLog Security | Mon Oct 13 13:20:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4722
+[2025-10-13 13:22:16] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:22:16] ALERT: EventLog Security | Mon Oct 13 13:20:46 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:22:16] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:22:16] ALERT: EventLog Security | Mon Oct 13 13:20:29 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 13:22:16] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:22:16] ALERT: EventLog Security | Mon Oct 13 13:20:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4722
+[2025-10-13 13:22:16] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:22:46] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:22:46] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:22:46] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:22:46] ALERT: EventLog Security | Mon Oct 13 13:20:46 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:22:46] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:22:46] ALERT: EventLog Security | Mon Oct 13 13:20:29 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 13:22:46] ALERT: EventLog Security | Mon Oct 13 13:20:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4722
+[2025-10-13 13:23:16] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:23:16] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:23:16] ALERT: EventLog Security | Mon Oct 13 13:20:46 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:23:16] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:23:16] ALERT: EventLog Security | Mon Oct 13 13:20:29 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 13:23:16] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:23:16] ALERT: EventLog Security | Mon Oct 13 13:20:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4722
+[2025-10-13 13:23:46] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:23:46] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:23:46] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:23:46] ALERT: EventLog Security | Mon Oct 13 13:20:46 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:23:46] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:23:46] ALERT: EventLog Security | Mon Oct 13 13:20:29 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 13:23:46] ALERT: EventLog Security | Mon Oct 13 13:20:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4722
+[2025-10-13 13:24:16] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:24:16] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:24:16] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:24:16] ALERT: EventLog Security | Mon Oct 13 13:20:46 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:24:16] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:24:16] ALERT: EventLog Security | Mon Oct 13 13:20:29 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 13:24:16] ALERT: EventLog Security | Mon Oct 13 13:20:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4722
+[2025-10-13 13:24:46] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:24:46] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:24:46] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:24:46] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:24:46] ALERT: EventLog Security | Mon Oct 13 13:20:46 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:24:46] ALERT: EventLog Security | Mon Oct 13 13:20:29 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 13:24:46] ALERT: EventLog Security | Mon Oct 13 13:20:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4722
+[2025-10-13 13:25:16] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:25:16] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:25:16] ALERT: Suspicious process detected: cmd.exe
+[2025-10-13 13:25:16] ALERT: Suspicious process detected: notepad.exe
+[2025-10-13 13:25:16] ALERT: EventLog Security | Mon Oct 13 13:20:46 2025 | Microsoft-Windows-Security-Auditing | ID: 4726
+[2025-10-13 13:25:16] ALERT: EventLog Security | Mon Oct 13 13:20:29 2025 | Microsoft-Windows-Security-Auditing | ID: 4732
+[2025-10-13 13:25:16] ALERT: EventLog Security | Mon Oct 13 13:20:28 2025 | Microsoft-Windows-Security-Auditing | ID: 4722

@@ -1,0 +1,62 @@
+⚠️ Suspicious Windows Processes
+
+cmd.exe → command prompt
+powershell.exe → script execution / exploitation
+wscript.exe / cscript.exe → Windows Script Host (used to run malicious VBS/JS scripts)
+mshta.exe → can run malicious HTML applications
+rundll32.exe → used to execute DLL payloads
+regsvr32.exe → can register DLLs remotely
+wmic.exe → WMI execution (often used by attackers for recon/exec)
+taskkill.exe / tasklist.exe → attackers often kill security processes
+net.exe / net1.exe → user/group enumeration, service control
+at.exe / schtasks.exe → persistence by scheduling tasks
+mimikatz.exe → (if present, almost always malicious)
+
+
+
+Processes you can safely demonstrate (and how)
+
+1) notepad.exe (easy, harmless)
+
+Command (Run from Run box or cmd):
+Expected HIDS behavior: Suspicious process detected: notepad.exe.
+Good for: quick demo that process monitoring works.
+
+2) cmd.exe (command prompt)
+Command:
+start "" cmd.exe /k "echo demo && pause"
+Expected: Suspicious process detected: cmd.exe.
+Use case: show attacker might get a shell.
+
+3) powershell.exe (PowerShell)
+Command (PowerShell or cmd):
+start "" powershell.exe -NoProfile -WindowStyle Normal -Command "Start-Sleep -Seconds 60"
+Expected: Suspicious process detected: powershell.exe.
+Use case: demonstrates script execution detection.
+
+4) wmic.exe (WMI execution)
+Command (cmd):
+wmic process call create "notepad.exe"
+Expected: detection of notepad.exe (and optionally wmic.exe if in your suspicious list).
+Notes: wmic is often used for remote/automated execution in attacks — good to show.
+
+5) schtasks.exe (scheduled task)
+Create a task that runs immediately (harmlessly launches Notepad):
+schtasks /Create /SC ONCE /TN DemoTask /TR "notepad.exe" /ST 23:59 /F
+schtasks /Run /TN DemoTask
+Expected: Suspicious process detected: schtasks.exe (if in list) and notepad.exe when the task runs.
+After demo, delete the task:
+schtasks /Delete /TN DemoTask /F
+
+6) mshta.exe (HTML Application host) — safe demo
+Open a simple blank mshta instance:
+mshta "about:blank"
+Expected: Suspicious process detected: mshta.exe (if monitored).
+Note: mshta can run malicious HTML apps — only run blank/benign pages.
+
+7) wscript.exe / cscript.exe (Windows Script Host)
+Create a tiny VBS file C:\Users\Hp\Desktop\hello.vbs:
+MsgBox "HIDS demo"
+Run with:
+wscript.exe "C:\Users\Hp\Desktop\hello.vbs"
+Expected: Suspicious process detected: wscript.exe or cscript.exe (if monitored).
