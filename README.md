@@ -60,14 +60,12 @@ python -m venv venv
 venv\Scripts\activate
 
 4. Install dependencies:
-pip install -r requirements.txt
-# (psutil, pywin32, pytest)
+(psutil, pywin32, pytest)
 
 
 ## Usage
 
 1. Run HIDS:
-
 python main.py
 
 * If `file_baseline.json` does not exist, it will automatically create a baseline.
