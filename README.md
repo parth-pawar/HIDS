@@ -24,7 +24,7 @@ Alerts are logged to `alerts.log` and printed in the console in real-time.
 * Cross-module tests for file, process, and utility functions.
 
 ---
-
+```
 ## Folder Structure
 
 HIDS/
@@ -42,7 +42,7 @@ HIDS/
 ├─ README.md
 └─ venv/                 # Virtual environment
 
-
+```
 ---
 
 ## Installation & Setup
